@@ -1,0 +1,17 @@
+D:\Вика\Универ\4\Комп графика\Indiva1\bin\Debug\net6.0-windows\Indiva1.exe
+D:\Вика\Универ\4\Комп графика\Indiva1\bin\Debug\net6.0-windows\Indiva1.deps.json
+D:\Вика\Универ\4\Комп графика\Indiva1\bin\Debug\net6.0-windows\Indiva1.runtimeconfig.json
+D:\Вика\Универ\4\Комп графика\Indiva1\bin\Debug\net6.0-windows\Indiva1.dll
+D:\Вика\Универ\4\Комп графика\Indiva1\bin\Debug\net6.0-windows\Indiva1.pdb
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.csproj.AssemblyReference.cache
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.Form1.resources
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.csproj.GenerateResource.cache
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.AssemblyInfoInputs.cache
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.AssemblyInfo.cs
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.csproj.CoreCompileInputs.cache
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.dll
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\refint\Indiva1.dll
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.pdb
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\Indiva1.genruntimeconfig.cache
+D:\Вика\Универ\4\Комп графика\Indiva1\obj\Debug\net6.0-windows\ref\Indiva1.dll
